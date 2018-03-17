@@ -1,0 +1,35 @@
+/* PHASE 5: Cats */
+.content-header {
+  height: 200px;
+  width: 100%;
+  background: url(https://www.petmd.com/sites/default/files/what-does-it-mean-when-cat-wags-tail.jpg);
+  position: relative;
+  background-size: cover;
+  border-bottom: 1px solid #ccc;
+}
+
+.content-btn {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  color: #000;
+  background: #fff;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+.content-btn:hover {
+  background: pink;
+}
+
+#hello {
+  font-size: 24px;
+  color: #42f4b3;
+  position: absolute;
+    bottom: 20px;
+    left: 240px;
+    font-size: 36px;
+    line-height: 1;
+}
